@@ -12,7 +12,7 @@ Visual components and Python
 
 ## Theory
 
-![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
+![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png) 
 
 
 ## Procedure :
